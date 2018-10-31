@@ -166,3 +166,8 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/python,windows,visualstudiocode
+
+/training_1
+/training_2
+/checkpoints
+*.h5
